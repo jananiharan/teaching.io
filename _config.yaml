@@ -58,7 +58,6 @@ liquid:
   error_mode        : warn
   strict_filters    : false
   strict_variables  : false
-theme               : jekyll-theme-midnight
 
 # Markdown Processors
 kramdown:
@@ -70,3 +69,6 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+#Jekyll theme
+  theme               : jekyll-theme-midnight
